@@ -1,5 +1,5 @@
 This brainfuck compiler has been written by Felix Schneider (feider).
-This file is aviable at feider.taurus.uberspace.de (soon www.feider.org)
+This file is aviable at feider.taurus.uberspace.de (soon www.feiderspace.org)
 You can do with it whatever you want, just name me as the author.
 
 And: Have fun! :)
